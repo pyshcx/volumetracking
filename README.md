@@ -11,7 +11,7 @@ This project implements a volume control system using hand tracking with OpenCV 
 - **Real-time FPS:** Displays frames per second (FPS) on the screen for performance monitoring.
 
 ## Demo
-![Volume Control Demo](https://youtu.be/zgmVqxduxsY)
+https://youtu.be/zgmVqxduxsY
 
 ## Prerequisites 🛠️
 
