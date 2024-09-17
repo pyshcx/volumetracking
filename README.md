@@ -1,6 +1,6 @@
 Here's a sample `README.md` file for your volume control project using hand tracking:
 
-```markdown
+
 # Hand Tracking Volume Controller 🎛️✋
 
 This project implements a volume control system using hand tracking with OpenCV and MediaPipe. The program captures real-time video from your webcam, detects the position of your thumb and index finger, and adjusts the system volume based on the distance between them.
@@ -27,7 +27,6 @@ You can install the required Python libraries with the following command:
 
 ```bash
 pip install opencv-python mediapipe numpy
-```
 
 ## Installation and Usage 🚀
 
