@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your volume control project using hand tracking:
-
-
 # Hand Tracking Volume Controller 🎛️✋
 
 This project implements a volume control system using hand tracking with OpenCV and MediaPipe. The program captures real-time video from your webcam, detects the position of your thumb and index finger, and adjusts the system volume based on the distance between them.
@@ -85,20 +82,8 @@ Volume Level: 65% | Thumb: (x1, y1) | Index: (x2, y2)
 
 Feel free to fork the project and submit pull requests. Contributions are welcome!
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### Author
 **Pranay Shah**  
 [GitHub](https://github.com/Pranayshah19) | [LinkedIn](https://www.linkedin.com/in/pranay-shah-a250571b8/)
 
 ```
-
-### Steps to Follow:
-1. **Update Links:** Replace the `yourusername` in the GitHub and LinkedIn links with your actual username.
-2. **Demo GIF (Optional):** If you want to include a demo GIF of the project, you can record the screen while using it and convert it to a GIF format.
-
-Let me know if you want me to assist with anything else!
