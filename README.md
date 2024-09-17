@@ -32,8 +32,8 @@ pip install opencv-python mediapipe numpy
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/hand-tracking-volume-controller.git
-   cd hand-tracking-volume-controller
+   git clone https://github.com/Pranayshah19/volumetracking.git
+   cd volumetracking
    ```
 
 2. **Run the program:**
