@@ -22,7 +22,7 @@ Before running the project, make sure you have the following installed:
 
 You can install the required Python libraries with the following command:
 
-```bash
+
 pip install opencv-python mediapipe numpy
 
 ## Installation and Usage 🚀
