@@ -84,6 +84,5 @@ Feel free to fork the project and submit pull requests. Contributions are welcom
 
 ### Author
 **Pranay Shah**  
-[GitHub](https://github.com/Pranayshah19) | [LinkedIn](https://www.linkedin.com/in/pranay-shah-a250571b8/)
+[GitHub](https://github.com/Pranayshah19) | [LinkedIn](https://www.linkedin.com/in/pranayshah19/)
 
-```
